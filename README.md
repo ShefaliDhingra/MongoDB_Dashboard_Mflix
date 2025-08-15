@@ -4,7 +4,7 @@
 This project leverages the **MFlix dataset** and MongoDB to analyze global movie trends, including release patterns, genre popularity, audience ratings, and award performance.  
 An interactive dashboard (see below) visualizes insights for strategic decision-making in the movie industry.
 
-![Movie Trends Dashboard](dashboard.png)
+![Movie Trends Dashboard](Dashboard.png)
 
 ---
 
